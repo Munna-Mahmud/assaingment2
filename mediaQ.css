@@ -1,0 +1,180 @@
+@media only screen and (min-width:320px) and (max-width: 780px) {
+    /* code start  */
+    .banner-section {
+        width: 100%;
+    }
+    .banner-title {
+        width: 100%;
+        margin: 40px 0px 0px;
+    }
+    h1 {
+        color: white;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 41px;
+        margin: 0px 0px 0px 39px;
+        width: 75%;
+    }
+    .banner-img {
+        margin: 40px 0px 0px 20px;
+        width: 320px;
+        transition: 1.2s;
+    }
+    .banner-section {
+        display: flex;
+        background-color: rgb(37, 12, 121);
+        background-size: cover;
+        flex-direction: column;
+    }
+    .banner-section {
+        width: 100%;
+        height: auto;
+    }
+    .btn{
+        color: white;
+        font-weight: bold;
+        font-size: 20px;
+        margin: 7% 0 0 12%;
+        text-decoration: none;
+        background: #E02C6D;
+        padding: 10px 24px;
+        display: inline-block;
+    }
+    .details {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        margin: 0px;
+        width: 100%;        
+    }
+    .card-section {
+        box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+        background-color: whitesmoke;
+        width: 339px;
+        height: 485px;
+        padding: -10px;
+        margin: 20px 8px;
+    }
+    .title {
+        color: black;
+        font-weight: 900;
+        margin-bottom: 0px;
+        font-size: 34px;
+        line-height: 69px;
+        width: 342px;
+    }
+    .highlights-section {
+        display: flex;
+        flex-direction: column;
+    }
+    .history-section {
+        background: rgb(221, 219, 219);
+        width: 400px;
+        padding: 20px;
+        margin-top: 200px;
+        border-radius: 5px;
+    }
+    .footer-section img {
+        width: 330px;
+        height: 114px;
+    }
+    .gallary-details{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .highlights-section {
+        display: flex;
+        width: 100%;
+        flex-direction: column;
+        justify-content: center;
+        align-content: center;
+    }
+    .highlights-title {
+        margin: auto;
+        height: 123px;
+        width: 100%;
+    }
+    .title {
+        color: black;
+        font-weight: 900;
+        margin-bottom: 0px;
+        font-size: 28px;
+        margin-left: 20px;
+        line-height: 38px;
+        width: 342px;
+    }
+    .highlights-title p{
+        margin-left: 20px;
+    }
+    #button {
+        margin: 0px;
+        margin-left: 20px;
+    }
+    .gallary-details{
+        margin: 0px;
+    }
+    #Text{
+        margin: 0px;
+    }
+    .history-section{
+        margin: 0px;
+    }
+    .highlights-img img {
+        width: 50%;
+    }
+/* code end */
+    }
+/* media query table version code start here */
+/* 
+@media only screen and (min-width: 481px) and (max-width: 667px){
+    /* code start  */
+     /* .banner-section{
+
+     }
+        width: 100%;
+    }
+    .banner-img img {
+            width: 151%;
+            margin-top: 300px;
+           
+        }
+    .banner-title {
+        width: 100%;
+        margin: 40px 0px 0px;
+    }
+    h1 {
+        color: white;
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 66px;
+        margin: 0px 0px 0px 80px;
+        width: 60%;
+    }
+    .banner-img {
+        margin: 40px 0px 0px 20px;
+        width: 100%;
+        transition: 1.2s;
+    }
+    .banner-section {
+        display: flex;
+        background-color: rgb(37, 12, 121);
+        background-size: cover;
+        flex-direction: column;
+    }
+    .banner-section {
+        width: 100%;
+        height: auto;
+    }
+    .btn {
+        color: white;
+        font-weight: bold;
+        font-size: 20px;
+        margin: 5% 0 0 12%;
+        text-decoration: none;
+        background: #E02C6D;
+        padding: 10px 24px;
+        display: inline-block;
+    }
+} */
+    
+    /* code start  */
+/* media query table version code end here */ 
