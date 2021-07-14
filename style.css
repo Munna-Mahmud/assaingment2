@@ -80,7 +80,7 @@ h1 {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     width: 1050px;
-    margin-left: 195px;
+    margin-left: 170px;
     margin-bottom: -66px;
 
 }
@@ -111,7 +111,7 @@ player-section End Here
       margin: auto;
       width: 469px;
       font: 900;
-      margin-left: 260px;
+      margin-left: 230px;
       height: 123px;
   }
   .highlights-title p{
@@ -171,7 +171,7 @@ player-section End Here
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     width: 1080px;
-    margin-left: 275px;
+    margin-left: 230px;
     margin-bottom: -66px;
 
 }
@@ -185,7 +185,7 @@ player-section End Here
     background: rgb(221, 219, 219);
     width:1080px;
     padding: 20px;
-    margin-left: 250px;
+    margin-left: 167px;
     margin-top: 200px;
     border-radius: 5px;
 }
@@ -200,7 +200,7 @@ player-section End Here
 
 /* footer-section start */
 footer{
-    margin-top: 200px;
+    margin-top: 80px;
     width: 100%;
     color:black;
     font-weight: 500;
