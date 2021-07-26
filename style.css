@@ -80,7 +80,7 @@ h1 {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     width: 1050px;
-    margin-left: 170px;
+    margin-left: 140px;
     margin-bottom: -66px;
 
 }
@@ -111,7 +111,7 @@ player-section End Here
       margin: auto;
       width: 469px;
       font: 900;
-      margin-left: 230px;
+      margin-left: 170px;
       height: 123px;
   }
   .highlights-title p{
